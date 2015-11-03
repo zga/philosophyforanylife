@@ -1,0 +1,27 @@
+.LOG
+.LOG
+10:55 PM 9/29/2015 v1.0
+Updated PDF to force it to open in continuous two-up (cover page) and fit view.
+
+10:02 PM 9/29/2015 v1.0
+Published and shared to facebook.
+
+3:48 PM 9/30/2015
+Noticed the text on the cover was off-center. Fixed front_eBook.PSD annd resaved as a single-page PDF. Used that to swap out the cover on the current full PDF, which I first archived. I then saved my fix as the new current full PDF and reuploaded it to Itch.io. No one will be able to tell the difference but it's now correct. Also made this change in AlternateCovers.zip
+
+4:05 PM 9/30/2015
+Reduced the front and back covers to 5x8 @ 150 DPI to lower the full PDF eBook file-size from 16MB to 5MB. 
+I also fixed the PDF bookmarks in the full text.
+Now that this size is much lower, I removed thhe text-only version and edited the text to reflect this.
+
+1:57 AM 10/2/2015
+Noticed that the cover must've gotten misaligned when I did the flipping and cropping. I wanted the lines of the road leading to a vanishing point on the left edge of the cover. Fixed this, replaced cover in full PDF and reuploaded. Also uploaded a new JPG to Kindle Direct Publishing. Have a lot of versions of the cover floating around and I still can't find my original color correction on the road photo. Need to focus on getting the print version online before I waste time cleaning up files.
+
+11:18 PM 10/3/2015
+Archived 'printable' Word document. Resaved 'eBook' Word document as a new standard Augustine, Philosophy For Any Life Word document.
+Updated all the headers. They were a mix of Garamond and TeX Gyre Heroes. I changed every instance of EB Garamond 10pt font to Tex Gyre Heroes (regular) 8pt font.
+Exported as new PDF, renumbered it, added bookmarks for front + back cover. Noticed back cover was on the right hand side instead of the left, so I fixed that. This changed thhe page numbers from 327 to 326 in total, so I adjusted that figure wherever relevant. Reuploaded PDF to itch.
+
+11:45 PM 10/3/2015
+PRINT VERSION
+Changed the body-text numbering in Introduction and Exhale to static text. Redesigned cover, added bleeds to spec. Took Word doc, shifted margins to 0.25" inside x 0.75" outside
