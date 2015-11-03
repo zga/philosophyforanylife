@@ -1,5 +1,5 @@
-# [Philosophy for Any Life: an open-source self-help book](http://philosophyforanylife.com)
-
-Repository for graphics and an archive of versions
-
+[Philosophy for Any Life](http://philosophyforanylife.com)
+=========================
+an open-source self-help book
+-------------------------
 # Changelog
